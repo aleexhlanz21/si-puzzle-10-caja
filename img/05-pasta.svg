@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="1200" height="480" fill="#fff"/>
+<text x="600" y="48" font-size="32" font-weight="bold" text-anchor="middle" fill="#222">¿Cuánta pasta térmica hay que poner?</text>
+<g>
+<rect x="90" y="100" width="260" height="220" rx="12" fill="#c9ced3" stroke="#7a8794" stroke-width="3"/><circle cx="220" cy="210" r="12" fill="#888"/>
+<rect x="470" y="100" width="260" height="220" rx="12" fill="#c9ced3" stroke="#7a8794" stroke-width="3"/><circle cx="600" cy="210" r="32" fill="#888"/>
+<rect x="850" y="100" width="260" height="220" rx="12" fill="#c9ced3" stroke="#7a8794" stroke-width="3"/><path d="M850 140 Q900 100 980 120 T1110 130 L1110 300 Q1050 330 980 310 T850 300 Z" fill="#888"/>
+</g>
+<g font-size="28" font-weight="bold" text-anchor="middle"><text x="220" y="370" fill="#c62828">✘ Muy poca</text><text x="600" y="370" fill="#2e7d32">✔ Un guisante</text><text x="980" y="370" fill="#c62828">✘ Demasiada</text></g>
+<g font-size="20" text-anchor="middle" fill="#333"><text x="220" y="410">Quedan zonas sin cubrir</text><text x="600" y="410">Al apretar se reparte sola</text><text x="980" y="410">Se desborda y ensucia</text>
+<text x="220" y="438">y la CPU se calienta</text><text x="600" y="438">por toda la superficie</text><text x="980" y="438">el zócalo</text></g>
+</svg>

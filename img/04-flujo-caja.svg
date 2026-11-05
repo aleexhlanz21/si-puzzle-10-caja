@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="DejaVu Sans, Arial, sans-serif">
+<defs>
+<marker id="r" markerWidth="26" markerHeight="26" refX="20" refY="13" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L26,13 L0,26 z" fill="#d84315"/></marker>
+<marker id="b" markerWidth="26" markerHeight="26" refX="20" refY="13" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L26,13 L0,26 z" fill="#1e6fd0"/></marker>
+</defs>
+<rect width="1200" height="640" fill="#fff"/>
+<text x="600" y="48" font-size="32" font-weight="bold" text-anchor="middle" fill="#222">Cómo debe circular el aire dentro de la caja</text>
+<rect x="260" y="130" width="560" height="440" rx="14" fill="#f4f6f8" stroke="#37474f" stroke-width="5"/>
+<g fill="#37474f"><rect x="266" y="170" width="28" height="110"/><rect x="266" y="300" width="28" height="110"/><rect x="266" y="430" width="28" height="110"/><rect x="480" y="136" width="120" height="24"/><rect x="630" y="136" width="120" height="24"/><rect x="788" y="190" width="26" height="110"/></g>
+<rect x="560" y="200" width="110" height="90" rx="6" fill="#d08a45"/><text x="615" y="253" font-size="22" fill="#fff" text-anchor="middle" font-weight="bold">CPU</text>
+<rect x="430" y="360" width="340" height="50" rx="6" fill="#546e7a"/><text x="600" y="393" font-size="22" fill="#fff" text-anchor="middle">Gráfica</text>
+<g stroke="#1e6fd0" stroke-width="7" marker-end="url(#b)"><line x1="160" y1="225" x2="255" y2="225"/><line x1="160" y1="355" x2="255" y2="355"/><line x1="160" y1="485" x2="255" y2="485"/><line x1="320" y1="355" x2="530" y2="260"/><line x1="320" y1="485" x2="420" y2="400"/></g>
+<g stroke="#d84315" stroke-width="7" marker-end="url(#r)"><line x1="540" y1="128" x2="540" y2="78"/><line x1="690" y1="128" x2="690" y2="78"/><line x1="820" y1="245" x2="920" y2="245"/></g>
+<text x="40" y="340" font-size="26" font-weight="bold" fill="#1e6fd0">ENTRA</text><text x="40" y="370" font-size="20" fill="#1e6fd0">aire fresco</text>
+<text x="930" y="240" font-size="26" font-weight="bold" fill="#d84315">SALE</text><text x="930" y="270" font-size="20" fill="#d84315">aire caliente</text>
+<text x="760" y="95" font-size="20" fill="#d84315">el calor sube</text>
+<text x="300" y="560" font-size="18" fill="#555">Delante</text><text x="730" y="560" font-size="18" fill="#555">Detrás</text>
+<rect x="870" y="360" width="310" height="190" rx="12" fill="#e3f2fd" stroke="#1e6fd0" stroke-width="2"/>
+<g font-size="20" fill="#222"><text x="890" y="398" font-weight="bold">Truco:</text><text x="890" y="430">que entre un poco más</text><text x="890" y="458">de aire del que sale.</text><text x="890" y="490">Así el polvo solo entra</text><text x="890" y="518">por los filtros.</text></g>
+</svg>
