@@ -1,6 +1,6 @@
 # Puzzle UT2 · Pieza 10: Caja y refrigeración
 
-**Grupo:** Nombre Apellido (@usuario) · Nombre Apellido (@usuario)
+**Grupo:** Alejandro Correa (@aleexhlanz21) · Adrian Gamez (@adrian-codes-v2)
 
 **Módulo:** Sistemas Informáticos · 1º DAW
 
