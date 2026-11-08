@@ -2,7 +2,7 @@
 
 **Grupo:** Alejandro Correa (@aleexhlanz21) · Adrian Gamez (@adrian-codes-v2)
 
-**Módulo:** Sistemas Informáticos · 1º DAW
+**Módulo:** Sistemas Informáticos - 1º DAW
 
 ---
 

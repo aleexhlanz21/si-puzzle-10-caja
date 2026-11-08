@@ -1,6 +1,6 @@
 # Teoría · Pieza 10: Caja y refrigeración
 
-**Grupo:** Nombre Apellido · Nombre Apellido
+**Grupo:** Alejandro Correa · Adrian  Gámez
 
 ## 1. Ideas básicas
 
